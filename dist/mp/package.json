@@ -1,0 +1,11 @@
+{
+	"name": "miniprogram-project",
+	"version": "0.0.1",
+	"description": "miniprogram project",
+	"dependencies": {
+		"axios": "^0.20.0",
+		"miniprogram-element": "latest",
+		"miniprogram-render": "latest"
+	},
+	"author": "wechat-miniprogram"
+}
